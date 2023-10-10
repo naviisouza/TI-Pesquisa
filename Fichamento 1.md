@@ -1,6 +1,6 @@
 # UX Design and Evaluation on Conversational Bot Supporting Multi-Turn and Multi-Domain Dialogues
 
-J. Bang, S. Ahn e AA Santoso Gunawan, "X Design and Evaluation on Conversational Bot Supporting Multi-Turn and Multi-Domain Dialogues", 2022 1ª Conferência Internacional sobre Ciência da Computação e Inteligência Artificial (ICCSAI) , Jacarta, Indonésia, 2021, pp. (http://dx.doi.org/10.1109/iccsai53272.2021.9609764)
+Junseong Bang, Sunghee Ahn, "X Design and Evaluation on Conversational Bot Supporting Multi-Turn and Multi-Domain Dialogues", 2022 1ª Conferência Internacional sobre Ciência da Computação e Inteligência Artificial (ICCSAI) , Jacarta, Indonésia, 2021, pp. (http://dx.doi.org/10.1109/iccsai53272.2021.9609764)
 
 ## 1. Fichamento de Conteúdo
 
