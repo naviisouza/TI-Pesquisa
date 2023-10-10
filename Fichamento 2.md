@@ -1,6 +1,6 @@
-# Search Algorithms for Regression Test Case Prioritization
+# Risk Analysis of Encountering Dark Patterns of UX E-commerce Applications Affecting Personal Data
 
-Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) "Search Algorithms for Regression Test Case Prioritization", IEEE Transactions on Software Engineering, vol. 33, no. 4, pp. 225-237, doi: [10.1109/TSE.2007.38](https://doi.org/10.1109/TSE.2007.38)
+A. Nimkoompai, "Risk Analysis of Encountering Dark Patterns of UX E-commerce Applications Affecting Personal Data," 2022 6th International Conference on Information Technology (InCIT), Nonthaburi, Thailand, 2022, pp. 115-119, doi: 10.1109/InCIT56086.2022.10067640.
 
 ## 1. Fichamento de Conteúdo
 
