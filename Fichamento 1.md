@@ -1,6 +1,6 @@
-# Volunteers' Engagement in Human Computation for Astronomy Projects
+# VThe Effect of UI/UX Design on User Satisfaction in Online Art Gallery
 
-Ponciano, Lesandro; Brasileiro,  Francisco; Simpson, Robert; Smith, Arfon. "Volunteers' Engagement in Human Computation for Astronomy Projects," in Computing in Science & Engineering, vol. 16, no. 6, pp. 52-59, Nov.-Dec. 2014. doi: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
+A. Wijaya, Kefry, W. Wihalim e AA Santoso Gunawan, "The Effect of UI/UX Design on User Satisfaction in Online Art Gallery", 2021 1ª Conferência Internacional sobre Ciência da Computação e Inteligência Artificial (ICCSAI) , Jacarta, Indonésia, 2021, pp. (http://dx. doi.org/10.1109/iccsai53272.2021.9609764).
 
 ## 1. Fichamento de Conteúdo
 
