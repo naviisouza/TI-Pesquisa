@@ -1,6 +1,6 @@
-# VThe Effect of UI/UX Design on User Satisfaction in Online Art Gallery
+# The Effect of UI/UX Design on User Satisfaction in Online Art Gallery
 
-A. Wijaya, Kefry, W. Wihalim e AA Santoso Gunawan, "The Effect of UI/UX Design on User Satisfaction in Online Art Gallery", 2021 1ª Conferência Internacional sobre Ciência da Computação e Inteligência Artificial (ICCSAI) , Jacarta, Indonésia, 2021, pp. (http://dx. doi.org/10.1109/iccsai53272.2021.9609764).
+A. Wijaya, Kefry, W. Wihalim e AA Santoso Gunawan, "The Effect of UI/UX Design on User Satisfaction in Online Art Gallery", 2021 1ª Conferência Internacional sobre Ciência da Computação e Inteligência Artificial (ICCSAI) , Jacarta, Indonésia, 2021, pp. (http://dx.doi.org/10.1109/iccsai53272.2021.9609764).
 
 ## 1. Fichamento de Conteúdo
 
