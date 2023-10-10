@@ -8,10 +8,9 @@ O artigo caracteriza dois projetos de ciência cidadã na área de astronomia, s
 
 ## 2. Fichamento Bibliográfico
 
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
+* _Ethical user experience_ (experiência ética do usuário) é uma pesquisa voltada para melhor e/ou modificar uma situação de infelicidade que o usuário está sofrendo, para uma perspectiva de felicidade e de melhoria substancial (página 116).
+* _Rate of familiarity_ (taxa de familiaridade) é uma taxa que indica o quanto o grupo experimental está intímo/tem conhecimento profundo sobre os padrões obscuros (página 117).
+* _Countermeasure planning_ (planejamento de contramedidas) são chances de ocorrer algum dos riscos que foram levantados na pesquisa (página 118). 
 
 ## 3. Fichamento de Citações
 * _"To take advantage of these human abilities, a new computing approach—called human computation—has emerged to let humans perform the tasks for which there's still no satisfactory solution via today's silicon-based computers"_
