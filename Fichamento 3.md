@@ -1,6 +1,6 @@
-# On the impact of energy-saving strategies in opportunistic grids
+# UX research in the software industry: an investigation of long-term UX practices
 
-Ponciano, Lesandro and Brasileiro, Francisco (2010) "On the impact of energy-saving strategies in opportunistic grids," 11th IEEE/ACM International Conference on Grid Computing, Brussels, pp. 282-289, doi: [10.1109/GRID.2010.5698003](https://doi.org/10.1109/GRID.2010.5698003).
+Suéllen Martinelli, Larissa Lopes e Luciana Zaina. 2022. Pesquisa UX na indústria de software: uma investigação de práticas UX de longo prazo. Nos Anais do 21º Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC '22). Association for Computing Machinery, Nova York, NY, EUA, Artigo 30, 1–13. https://doi-org.ez93.periodicos.capes.gov.br/10.1145/3554364.3559126
 
 ## 1. Fichamento de Conteúdo
 
