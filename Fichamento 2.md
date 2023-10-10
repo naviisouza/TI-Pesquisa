@@ -12,8 +12,9 @@ Testes de regressão são executados em software para verificar se uma mudança 
 * _Countermeasure planning_ (planejamento de contramedidas) são chances de ocorrer algum dos riscos que foram levantados na pesquisa (página 118).
 
 ## 3. Fichamento de Citações
-* _"Test case prioritization (...) orders test cases so that the test cases with highest priority, according to some criterion (a "fitness metric"), are executed first."_
-* _Given a function f that assesses the rate of achievement of code coverage, an efficient solution to the test case prioritization problem would provide an efficient solution to the knapsack problem, which is known to be NP-hard [7]. Thus, prioritization techniques for code coverage are necessarily heuristic [18]."_
-* _"The following two research questions motivated this study: Q1. Which algorithm is most effective in solving the test case prioritization problem for regression testing? Q2. What factors could affect the efficiency of algorithms for the test case prioritization problem for regression testing?"_
-* _"The results of the empirical study show that the Additional Greedy, 2-Optimal, and Genetic Algorithms always outperform the Greedy Algorithm. These results for the programs studied are shown to be statistically significant for all programs studied."_
-* _"The fact that there are many local optima in the search space indicates that, for large test suites, the fitness landscapes are likely to be inherently multimodal. This result suggests that global search techniques could outperform local search techniques for regression testing prioritization problems, particularly for larger test suites."_
+* _"Dark Patterns of UX are one type of interface that is well-crafted, but deceptive, to mislead the user to unintentionally do something and pay money for the corporate interest, or unknowingly fulfill the corporate
+goal, such as purchasing, subscription, impediment of registration cancellation."_
+* _User experience design is creation of good experience through usage of things (...)."_
+* _"The PDPA is based on GDPR (General Data Protection Regulation) of the European Union. Similarity between the two laws is the goal of securing personal data against hacking, infringement, or extortion against the data owners themselves or data holders. Such law has a major role in website or application design as the design process must be done carefully to avoid violation."_
+* _"This analysis revealed diverse ethical issues, and the UX designer might be an accomplice in misleading or unreasonably persuasive actions."_
+* _"The study revealed that 58.3% of the sampled group did not know dark patterns, 37.5% roughly knew the patterns, and only 4.2% were wellacquainted with the dark patterns. The top three misleading dark patterns (out of 24) that were commonly used by designers were 1. Forced continuity (71.8%), 2. Disguised ads (59.3%), and 3. Notification fatigue (59.3%)."_
