@@ -1,6 +1,6 @@
-# UX Design and Evaluation on Conversational Bot Supporting Multi-Turn and Multi-Domain Dialogues
+# UI/UX Design Methodology of Portable Customizable Simulated Pet System Considering Human Mental Health
 
-J. Bang e S. Ahn, "UX Design and Evaluation on Conversational Bot Supporting Multi-Turn and Multi-Domain Dialogues", 2022 International Conference on Platform Technology and Service (PlatCon) , Jeju, Coreia, República da, 2022, pp. 92-97, doi: 10.1109/PlatCon55845.2022.9932091.
+J. Wu, Y. Dai, Y. Yuan and J. Li, "UI/UX Design Methodology of Portable Customizable Simulated Pet System Considering Human Mental Health," 2022 IEEE 4th Global Conference on Life Sciences and Technologies (LifeTech), Osaka, Japan, 2022, pp. 41-45, doi: 10.1109/LifeTech53646.2022.9754870.
 
 ## 1. Fichamento de Conteúdo
 
@@ -13,10 +13,13 @@ O artigo caracteriza dois projetos de ciência cidadã na área de astronomia, s
 * _Countermeasure planning_ (planejamento de contramedidas) são chances de ocorrer algum dos riscos que foram levantados na pesquisa (página 118). 
 
 ## 3. Fichamento de Citações
-* _"To take advantage of these human abilities, a new computing approach—called human computation—has emerged to let humans perform the tasks for which there's still no satisfactory solution via today's silicon-based computers"_
-* _"Volunteer thinking projects are analogous to volunteer computing projects, such as SETI@home"_
-* _"Our results suggest that we can broadly divide participants into transient volunteers (those who execute tasks only one day and don't return) and regular volunteers (those who return at least one more day to execute more tasks after executing the first task in the project)."_
-* _"Given these intervals, we use the threshold-based methodology [11] to determine the sessions."_
-* _"There's a strong correlation between volunteers' frequency and their devoted time to the project"_
-* _"There's also a moderate correlation between daily productivity and session duration for regular volunteers"_
-* _"In the Milky Way Project, the main change from normal days to busy days is that the proportion of traffic from the UK increases from 16 to 34 percent, and the proportion of users that came to the project through the BBC's website (bbc.co.uk) increases from 3 to 24 percent."_
+* _"In recent years, pet ownership is being promoted as a way to improve mental health. More and more people are owning pets, walking, playing and talking with them. Owning a pet is beneficial to mental health and can reduce anxiety and
+depression."_
+* _"The purpose of UI and ICON design is also to convey information. So the other "good-looking" is that it is more in line with the visual dynamics of reading, it is not hard to read, easy to read, suitable for reading, and easy for the user to read to the point."_
+* _"Therefore, by reducing the saturation, the gray color neutralizes the original bright colors, so that the whole picture is bound to each other and achieve visual balance, and the reduction of saturation makes the colors convey less emotion, reducing the impact of color on human emotions."_
+* _"In terms of illustrations, simple and easy-to-understand flat illustrations are used, which can be easily operated by both the elderly and children. And user can feel comfortable and relaxed by matching the illustrations with warm colors."_
+* _"This system attempts to break the public's inherent perception of electronic virtual pets, revealing that not only children or the elderly have needs, but the functions of virtual pets can also help young people improve their mental health in terms of anxiety and depression, emphasizing that the use of KEDAMA is not just a way to miss thoughts of pets, but also
+a way to care for young people's mental health."_
+* _"Each user had a positive reaction to the initial impression of KEDAMA, and did not have bad feelings from the beginning,
+so users can continue to experience the next three weeks of experiment."_
+* _"The number of positive scores counted, combining "good" and "improved", was more than half (55.2%) for KEDAMA and 42.0% for KEDAMA. (...). These results suggested that the introduction of the portable simulated pet "KEDAMA" can improve mental health."_
