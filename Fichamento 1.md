@@ -8,9 +8,11 @@ O artigo caracteriza dois projetos de ciência cidadã na área de astronomia, s
 
 ## 2. Fichamento Bibliográfico
 
-* _Ethical user experience_ (experiência ética do usuário) é uma pesquisa voltada para melhor e/ou modificar uma situação de infelicidade que o usuário está sofrendo, para uma perspectiva de felicidade e de melhoria substancial (página 116).
-* _Rate of familiarity_ (taxa de familiaridade) é uma taxa que indica o quanto o grupo experimental está intímo/tem conhecimento profundo sobre os padrões obscuros (página 117).
-* _Countermeasure planning_ (planejamento de contramedidas) são chances de ocorrer algum dos riscos que foram levantados na pesquisa (página 118). 
+* _Portable simulated_ (simulador portátil) é um tipo de dispositivo que permite a simulação de forma prática, nesse caso um animal de estimação. Podendo ser transportado facilmente por onde desejar (página 41).
+* _ Nostalgic_ (nostalgia) é uma lembrança que normalmente indica saudade, ocasionando problemas na saúde mental (página 41).
+* _Five senses_ (cinco sentidos) são os cinco sentidos humanos, responsáveis pela captação de informações. (página 41).
+* _Terms of perceptions_ (termos de percepção) são identificaçÕES/interpretações do que é mais adequado e confortável para o usuário do KEDAMA (página 42).
+* _ Feasible time_ (tempo viável) é o tempo que os usuários tinham disponibilidade para testar o simulador KEDAMA. (página 44).
 
 ## 3. Fichamento de Citações
 * _"In recent years, pet ownership is being promoted as a way to improve mental health. More and more people are owning pets, walking, playing and talking with them. Owning a pet is beneficial to mental health and can reduce anxiety and
