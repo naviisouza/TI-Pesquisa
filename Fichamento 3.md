@@ -1,6 +1,6 @@
-# On the impact of energy-saving strategies in opportunistic grids
+# OUI-UX Design Using User Centred Design (UCD) Method
 
-Ponciano, Lesandro and Brasileiro, Francisco (2010) "On the impact of energy-saving strategies in opportunistic grids," 11th IEEE/ACM International Conference on Grid Computing, Brussels, pp. 282-289, doi: [10.1109/GRID.2010.5698003](https://doi.org/10.1109/GRID.2010.5698003).
+G. Goel, P. Tanwar and S. Sharma, "UI-UX Design Using User Centred Design (UCD) Method," 2022 International Conference on Computer Communication and Informatics (ICCCI), Coimbatore, India, 2022, pp. 1-8, doi: 10.1109/ICCCI54379.2022.9740997.
 
 ## 1. Fichamento de Conteúdo
 
@@ -14,9 +14,8 @@ O artigo trata da economia de energia na execução de aplicações _Bag-Of-Task
 
 
 ## 3. Fichamento de Citações
-* _"Opportunistic grids are distributed computing infrastructures that harvest the idle computing cycles of computing resources geographically distributed."_ (página 1)
-* _"We measured the energy savings of the strategies in a scenario A by comparing the energy consumption of this scenario with the energy consumption of a similar scenario where the only difference is that machines are never placed in a sleeping state, i.e. they can only be in the owner, running and idle states"_  (página 4)
-* _"The makespan of a BoT job is defined as the difference between the earliest time of submission of any of its tasks, and the latest time of completion of any of its tasks."_ (página 4)
-* _"We assumed that all jobs submitted to the grid are CPU-bound, which facilitated the calculation of the energy consumption; other studies have also made a similar simplification"_ (página 5)
-* _"To represent the variation in the availability of the machines over time, we used a trace of a desktop grid that displays data on the use of machines, identifying the periods when the machines are idle"_ (página 5)
-* _"The availability of real workloads of BoT applications is rather limited. Thus, we decided to also use synthetic workloads to complement our investigation. To generate the different workloads considered, we used the workload model proposed by Iosup et al. [11]."_ (página 6)
+* _"Opportunistic grids are distributed computing infrastructures that harvest the idle computing cycles of computing resources geographically distributed."_
+* _"We measured the energy savings of the strategies in a scenario A by comparing the energy consumption of this scenario with the energy consumption of a similar scenario where the only difference is that machines are never placed in a sleeping state, i.e. they can only be in the owner, running and idle states"_ 
+* _"The makespan of a BoT job is defined as the difference between the earliest time of submission of any of its tasks, and the latest time of completion of any of its tasks."_
+* _"For 30 participants, a brief survey was conducted using Google Form. Only 26 people were qualified since they replied yes to the first question. No personal information was taken from participants and the survey was only for research purpose. The goal of this survey is to learn about UI-UX evaluations and testing for the implemented design from users who have had similar experiences."_
+* _"We get all the responses for the questions concerning the app's design elements, the main menu pageand its experience, and the overall UI-UX of the app, with the most common responses being 4,5 and 5 points respectively. This indicates that the responders appreciated the app's UI in these three areas and found it to be seamless to use."_
