@@ -11,7 +11,7 @@ O artigo caracteriza dois projetos de ciência cidadã na área de astronomia, s
 * _Portable simulated_ (simulador portátil) é um tipo de dispositivo que permite a simulação de forma prática, nesse caso um animal de estimação. Podendo ser transportado facilmente por onde desejar (página 41).
 * _Nostalgic_ (nostalgia) é uma lembrança que normalmente indica saudade, ocasionando problemas na saúde mental (página 41).
 * _Five senses_ (cinco sentidos) são os cinco sentidos humanos, responsáveis pela captação de informações. (página 41).
-* _Terms of perceptions_ (termos de percepção) são identificaçÕES/interpretações do que é mais adequado e confortável para o usuário do KEDAMA (página 42).
+* _Terms of perceptions_ (termos de percepção) são identificações do que é mais adequado e confortável para o usuário do KEDAMA (página 42).
 * _Feasible time_ (tempo viável) é o tempo que os usuários tinham disponibilidade para testar o simulador KEDAMA. (página 44).
 
 ## 3. Fichamento de Citações
