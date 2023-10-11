@@ -14,8 +14,8 @@ O artigo trata da economia de energia na execução de aplicações _Bag-Of-Task
 
 
 ## 3. Fichamento de Citações
-* _"Opportunistic grids are distributed computing infrastructures that harvest the idle computing cycles of computing resources geographically distributed."_
-* _"We measured the energy savings of the strategies in a scenario A by comparing the energy consumption of this scenario with the energy consumption of a similar scenario where the only difference is that machines are never placed in a sleeping state, i.e. they can only be in the owner, running and idle states"_ 
-* _"The makespan of a BoT job is defined as the difference between the earliest time of submission of any of its tasks, and the latest time of completion of any of its tasks."_
+* _"According to seasoned product designers, good research drives design decisions, and doing research early in the process may save a lot of time and money in the long run."_
+* _"Because of the product's complexity, time, resources available, and a number of other considerations, the product research phase is possibly the most changeable of all project phases."_ 
+* _"To finish this project, a UCD model was employed. The preliminary review of requirements will be doneby querying and collecting user informationthroughout the requirements formulation process."_
 * _"For 30 participants, a brief survey was conducted using Google Form. Only 26 people were qualified since they replied yes to the first question. No personal information was taken from participants and the survey was only for research purpose. The goal of this survey is to learn about UI-UX evaluations and testing for the implemented design from users who have had similar experiences."_
 * _"We get all the responses for the questions concerning the app's design elements, the main menu pageand its experience, and the overall UI-UX of the app, with the most common responses being 4,5 and 5 points respectively. This indicates that the responders appreciated the app's UI in these three areas and found it to be seamless to use."_
