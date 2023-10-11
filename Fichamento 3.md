@@ -1,4 +1,4 @@
-# OUI-UX Design Using User Centred Design (UCD) Method
+# UI-UX Design Using User Centred Design (UCD) Method
 
 G. Goel, P. Tanwar and S. Sharma, "UI-UX Design Using User Centred Design (UCD) Method," 2022 International Conference on Computer Communication and Informatics (ICCCI), Coimbatore, India, 2022, pp. 1-8, doi: 10.1109/ICCCI54379.2022.9740997.
 
